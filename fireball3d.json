@@ -1,0 +1,34 @@
+{
+    "showIcons": false,
+
+  "apps": [
+    {
+      "name": "App Name 1",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881957/2a0000018af1c0ebaba5728b6ad56123fe1d/pjpg128x128",
+      "link": "https://yandex.com/games/app/260097#app-id=26009"
+    },
+    {
+      "name": "App Name 2",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881364/2a0000018b8176e63cb656f852c627e997a7/pjpg128x128",
+      "link": "https://yandex.com/games/app/267591"
+    },{
+      "name": "App Name 1",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881957/2a0000018af1c0ebaba5728b6ad56123fe1d/pjpg128x128",
+      "link": "https://yandex.com/games/app/260097#app-id=26009"
+    },
+    {
+      "name": "App Name 2",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881364/2a0000018b8176e63cb656f852c627e997a7/pjpg128x128",
+      "link": "https://yandex.com/games/app/267591"
+    },{
+      "name": "App Name 1",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881957/2a0000018af1c0ebaba5728b6ad56123fe1d/pjpg128x128",
+      "link": "https://yandex.com/games/app/260097#app-id=26009"
+    },
+    {
+      "name": "App Name 2",
+      "iconUrl": "https://avatars.mds.yandex.net/get-games/1881364/2a0000018b8176e63cb656f852c627e997a7/pjpg128x128",
+      "link": "https://yandex.com/games/app/267591"
+    }
+  ]
+}
